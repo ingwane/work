@@ -2,11 +2,13 @@
 This showcases some of my sample embedded computer vision work.
 
 ## Computer Vision
-Image processing (made DSP filters from scratch)
+Image processing (created DSP filters from scratch)
+<br />
 <br />
 ![Imgp](imgp.gif)
 
 Object detection
+<br />
 <br />
 ![detect-object-rgb1](detect-object-rgb1.jpg)
 <br />
@@ -39,7 +41,9 @@ Streaming (Linux FFPlay application)
 ## Graphics
 2D sine wave simulation
 <br />
+<br />
 ![Sine](sine.gif)
+
 
 
 
