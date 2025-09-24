@@ -12,6 +12,13 @@ Object detection
 <br />
 ![detect-object-rgb3](detect-object-rgb3.jpg)
 
+Object tracking
+
+Tracking (cursor - Kalman filter tracker)
+<br />
+<br />
+![track-cursor](track-cursor.gif)
+
 Streaming (built TCP streaming server from scratch for visual confirmation)
 
 Streaming (Android ATAK application)
@@ -28,5 +35,6 @@ Streaming (Linux FFPlay application)
 2D sine wave simulation
 <br />
 ![Sine](sine.gif)
+
 
 
