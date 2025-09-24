@@ -19,6 +19,11 @@ Tracking (cursor - Kalman filter tracker)
 <br />
 ![track-cursor](track-cursor.gif)
 
+Tracking (tank - CNN tracker)
+<br />
+<br />
+![track-tank](track-tank.gif)
+
 Streaming (built TCP streaming server from scratch for visual confirmation)
 
 Streaming (Android ATAK application)
@@ -35,6 +40,7 @@ Streaming (Linux FFPlay application)
 2D sine wave simulation
 <br />
 ![Sine](sine.gif)
+
 
 
 
