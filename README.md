@@ -6,7 +6,13 @@ Image processing (made DSP filters from scratch)
 <br />
 ![Imgp](imgp.gif)
 
-Built TCP streaming server from scratch (streaming computer vision output for visual confirmation)
+Object detection
+<br />
+![detect-object-rgb1](detect-object-rgb1.jpg)
+<br />
+![detect-object-rgb3](detect-object-rgb3.jpg)
+
+Streaming (built TCP streaming server from scratch for visual confirmation)
 
 Streaming (Android ATAK application)
 <br />
@@ -22,4 +28,5 @@ Streaming (Linux FFPlay application)
 2D sine wave simulation
 <br />
 ![Sine](sine.gif)
+
 
