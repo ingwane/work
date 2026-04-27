@@ -28,6 +28,11 @@ Track (AGM114 Hellfire missile)
 <br />
 ![track-agm114](track-agm114.gif)
 
+Track (missile barrage)
+<br />
+<br />
+![track-barrage](track-barrage.gif)
+
 Track (boats)
 <br />
 <br />
