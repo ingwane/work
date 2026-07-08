@@ -25,17 +25,22 @@ Track (AIM9 Sidewinder missile - F22 Raptor)
 <br />
 ![track-aim9-f22](track-aim9-f22.gif)
 
+Track (Astra Mk 1 missile)
+<br />
+<br />
+![track-astra-mk1](track-astra-mk1.gif)
+
 Track (Atmaca missile)
 <br />
 <br />
 ![track-atmaca](track-atmaca.gif)
 
-Track (missile barrage - 01)
+Track (Missile barrage - 01)
 <br />
 <br />
 ![track-barrage](track-barrage.gif)
 
-Track (missile barrage - 02)
+Track (Missile barrage - 02)
 <br />
 <br />
 ![track-barrage-02](track-barrage-02.gif)
@@ -65,10 +70,20 @@ Track (Long Range Hypersonic Weapon Dark Eagle missile)
 <br />
 ![track-lrhw-dark-eagle](track-lrhw-dark-eagle.gif)
 
+Track (M134 Minigun)
+<br />
+<br />
+![track-m134](track-m134.gif)
+
 Track (M142 HIMARS ATACMS missile)
 <br />
 <br />
 ![track-m142-himars](track-m142-himars.gif)
+
+Track (M242 25 mm chaingun)
+<br />
+<br />
+![track-m242-chaingun](track-m242-chaingun.gif)
 
 Track (MQ9 Reaper drone)
 <br />
@@ -84,6 +99,11 @@ Track (UGM133 Trident D5 II missile)
 <br />
 <br />
 ![track-ugm133](track-ugm133.gif)
+
+Track (.50 BMG Heavy Machine Gun)
+<br />
+<br />
+![track-50bmg](track-50bmg.gif)
 
 Track (boats)
 <br />
