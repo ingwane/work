@@ -90,6 +90,16 @@ Track (MQ9 Reaper drone)
 <br />
 ![track-mq9](track-mq9.gif)
 
+Track (Pinaka LRGR (Long Range Guided Rocket))
+<br />
+<br />
+![track-pinaka-lrgr](track-pinaka-lrgr.gif)
+
+Track (SOM B1T missile)
+<br />
+<br />
+![track-som-b1t](track-som-b1t.gif)
+
 Track (UGM109 Tomahawk missile)
 <br />
 <br />
