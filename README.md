@@ -20,6 +20,11 @@ Track (AGM114 Hellfire missile - MQ9 Reaper)
 <br />
 ![track-agm114](track-agm114.gif)
 
+Track (AGM189A - Barracuda 500M)
+<br />
+<br />
+![track-agm189a-barracuda-500m](track-agm189a-barracuda-500m.gif)
+
 Track (AIM9 Sidewinder missile - F22 Raptor)
 <br />
 <br />
@@ -38,12 +43,17 @@ Track (Atmaca missile)
 Track (Missile barrage - 01)
 <br />
 <br />
-![track-barrage](track-barrage.gif)
+![track-barrage-01](track-barrage-01.gif)
 
 Track (Missile barrage - 02)
 <br />
 <br />
 ![track-barrage-02](track-barrage-02.gif)
+
+Track (Missile barrage - 03)
+<br />
+<br />
+![track-barrage-03](track-barrage-03.gif)
 
 Track (P800 Onik missile - K300P Bastion)
 <br />
@@ -109,6 +119,11 @@ Track (UGM133 Trident D5 II missile)
 <br />
 <br />
 ![track-ugm133](track-ugm133.gif)
+
+Track (YFQ44A - FQ-44)
+<br />
+<br />
+![track-yfq44a](track-yfq44a.gif)
 
 Track (.50 BMG Heavy Machine Gun)
 <br />
