@@ -40,6 +40,11 @@ Track (Atmaca missile)
 <br />
 ![track-atmaca](track-atmaca.gif)
 
+Track (Kusha missile)
+<br />
+<br />
+![track-kusha](track-kusha.gif)
+
 Track (Missile barrage - 01)
 <br />
 <br />
@@ -99,6 +104,11 @@ Track (MQ9 Reaper drone)
 <br />
 <br />
 ![track-mq9](track-mq9.gif)
+
+Track (Pantsir S1 intercepting FP2 drone)
+<br />
+<br />
+![track-pantsir-s1](track-pantsir-s1.gif)
 
 Track (Pinaka LRGR (Long Range Guided Rocket))
 <br />
